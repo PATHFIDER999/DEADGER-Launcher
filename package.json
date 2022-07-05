@@ -1,7 +1,7 @@
 {
     "name": "DEADGER-Launcher",
     "preductname": "DEADGER Launcher",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "banane480",
@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/PATHFIDER999/DEADGER-Launcher.git"
     }
 }
