@@ -1,8 +1,7 @@
 # Generated
-/node_modules/
+node_modules
 app
-/package-lock.json
-/dist/
+test
+dist
 node-v*
 AppData
-web/files/files
